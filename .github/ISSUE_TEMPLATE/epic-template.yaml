@@ -12,7 +12,7 @@ body:
     id: acknowledgements
     attributes:
       label: Acknowledgements
-      description: This epic template can only be filled out by members of the team
+      description: This template for Epics can only be filled out by members of the team
       options:
         - label: I am a member of the team
           required: true
@@ -27,7 +27,7 @@ body:
   - type: textarea
     id: tasks
     attributes:
-      label: Acceptance Criteria
+      label: Acceptance Criteria/Task List
       value: |
           - [ ] Specify the feature
           - [ ] Develop the feature
