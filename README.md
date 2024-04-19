@@ -1,2 +1,3 @@
-# plutus-high-assurance-template
-Plutus High Assurance Template, automattion of plugging into our GitHub Projects
+# Template Repository
+
+Use this template as a repository so that it is automatically plugged into the Project boards
