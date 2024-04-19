@@ -29,12 +29,9 @@ body:
     attributes:
       label: Acceptance Criteria
       value: |
-          ```[tasklist]
-          ## (What are the acceptance criteria for this Epic?)
           - [ ] Specify the feature
           - [ ] Develop the feature
           - [ ] Test the feature
-          ```
   - type: dropdown
     id: priority
     attributes:
